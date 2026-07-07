@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/constantengine.png" width="256" alt="ce logo">
+  <img src="../assets/constantengine.png" width="256" alt="ce logo">
 </p>
 <h1 align="center">Constant Engine™</h1>
 
